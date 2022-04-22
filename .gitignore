@@ -6,11 +6,12 @@
 /tmp
 /out-tsc
 /bazel-out
+build
 
 # Node
 /server/node_modules
 server/node_modules
-/node_modules
+node_modules
 npm-debug.log
 yarn-error.log
 
